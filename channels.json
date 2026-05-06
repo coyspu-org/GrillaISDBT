@@ -310,6 +310,11 @@
     "logo": "logos/amc-ar.png"
   },
   {
+    "number": "42.5",
+    "name": "Europa Europa",
+    "logo": "logos/europa-europa-ar.png"
+  },
+  {
     "number": "43.1",
     "name": "Film & Arts HD",
     "logo": "logos/film-and-arts-ar.png"
@@ -391,8 +396,8 @@
   },
   {
     "number": "50.6",
-    "name": "Mas chic HD",
-    "logo": "logos/mas-chic-ar.png"
+    "name": "AMC Series HD",
+    "logo": "logos/amc-series-ar.png"
   },
   {
     "number": "60.1",
@@ -438,21 +443,6 @@
     "number": "61.5",
     "name": "Sun Channel HD",
     "logo": "logos/sun-channel-ar.png"
-  },
-  {
-    "number": "44.1",
-    "name": "Volver",
-    "logo": "logos/volver-ar.png"
-  },
-  {
-    "number": "44.2",
-    "name": "RAI ITALIA",
-    "logo": "logos/RAI-italia-ar.png"
-  },
-  {
-    "number": "44.3",
-    "name": "TVE HD",
-    "logo": "logos/tve-ar.png"
   },
   {
     "number": "70.1",
