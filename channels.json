@@ -174,10 +174,15 @@
     "name": "DISCOVERY TURBO HD",
     "logo": "logos/discovery-turbo-ar.png"
   },
-  {
-    "number": "23.1",
-    "name": "America Sports",
-    "logo": "logos/america-sports-ar.png"
+ {
+    "number": "22.3",
+    "name": "DSports",
+    "logo": "logos/dsports-lam.png"
+  },
+   {
+    "number": "22.4",
+    "name": "DSports 2",
+    "logo": "logos/dsports2-lam.png"
   },
   {
     "number": "23.2",
