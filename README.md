@@ -1,4 +1,4 @@
-https://coyspu.github.io/GrillaISDBT
+https://coyspu-org.github.io/GrillaISDBT
 
 # Sintonización COYSPU - Grilla Básica HD 
 
